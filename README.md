@@ -1,5 +1,3 @@
-# amsterdam-population-forecast
-City-level demographic forecasting and district trend analysis using ML.
 # 📊 Amsterdam Demographic & Subsidies Forecasting
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
